@@ -8,3 +8,5 @@ pretty_midi
 mido
 tqdm
 scipy
+pandas
+music21

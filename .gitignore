@@ -1,0 +1,10 @@
+venv/
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+data/raw_midi/
+data/processed/
+.DS_Store
+Thumbs.db
