@@ -1,0 +1,1 @@
+Aj prochur moja hobe.
