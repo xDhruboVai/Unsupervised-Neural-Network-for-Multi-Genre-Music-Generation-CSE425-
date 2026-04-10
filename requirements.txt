@@ -4,6 +4,8 @@ numpy
 matplotlib
 scikit-learn
 jupyter
+notebook
+ipykernel
 pretty_midi
 mido
 tqdm
