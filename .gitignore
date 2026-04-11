@@ -8,3 +8,6 @@ data/raw_midi/
 data/processed/
 .DS_Store
 Thumbs.db
+.vscode/
+.github
+data/
