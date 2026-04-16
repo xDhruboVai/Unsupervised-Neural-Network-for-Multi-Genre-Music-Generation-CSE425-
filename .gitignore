@@ -1,4 +1,4 @@
-venv/
+.venv/
 .env
 __pycache__/
 *.py[cod]
@@ -8,4 +8,6 @@ __pycache__/
 Thumbs.db
 .vscode/
 .github
-data
+#data
+# Large trained model binaries
+artifacts/**/*.pt
